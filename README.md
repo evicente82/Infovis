@@ -8,6 +8,6 @@
 
 [NBA Analysis] (https://evicente82.github.io/Infovis/NBA.html)
 
-[Spotify Personal] (https://evicente82.github.io/Infovis/Spotify.html)
+[Spotify Personal] (https://evicente82.github.io/Infovis/SpotifyPersonal.html)
 
 
